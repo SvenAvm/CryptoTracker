@@ -20,6 +20,6 @@ if __name__ == '__main__':
         symbol14 = CryptoCurrency(symbol="xmrusdt")
 
         CryptoCurrency.show_prices()
-        time.sleep(5)
+        time.sleep(3)
         CryptoCurrency.clean_prices()
         os.system("cls")
