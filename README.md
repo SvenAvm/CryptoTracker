@@ -5,5 +5,5 @@
 ### TO DO:
 
 top crypto's list
-
+Add support for Stocks, bonds, forex, commodities 
 GUI
